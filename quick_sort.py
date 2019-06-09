@@ -1,4 +1,4 @@
-#sym elements in array
+#sum elements in array
 def suma(arr):
     total = 0
     for i in arr:
